@@ -1,0 +1,66 @@
+id , name ,id_cate,price,detail,status
+
+-----------------------------------------
+
+
+mysql_query("INSERT INTO food VALUES(1000,'Hawaiian',1,279,'Combining the sweet and sour taste of juicy pineapples with meaty ham and bacon.','ready')");
+mysql_query("INSERT INTO food VALUES(1001,'Seafood Deluxe',1,349,'Those fishermen cry when we pile up all topped with lots of prawns, crab sticks.','ready')");
+mysql_query("INSERT INTO food VALUES(1002,'Seafood Cocktail',1,349,'The keyword for this creation! Fresh prawns, succulent crab sticks.','ready')");
+mysql_query("INSERT INTO food VALUES(1003,'Super Deluxe',1,299,'Everything from pork sausage, Italian sausage, pepperoni, ham, bacon, onion, capsicum.','ready')");
+mysql_query("INSERT INTO food VALUES(1004,'Chicken Trio',1,299,'We put grilled chicken, garlic butter chicken and chicken marinade in mushroom sauce.','ready')");
+mysql_query("INSERT INTO food VALUES(1005,'Italian Sausage',1,279,'Italian sausage, pepperoni, onion, mushroom and cherry tomatoes.','ready')");
+mysql_query("INSERT INTO food VALUES(1006,'Tropical Seafood',1,349,'This seafood mix of crab sticks, pineapple and Thousand Island sauce is always delightful.','ready')");
+mysql_query("INSERT INTO food VALUES(1007,'Shrimp Cocktail',1,349,'Fresh shrimp, mushroom, pineapple, cherry tomato and Thousand.','ready')");
+mysql_query("INSERT INTO food VALUES(1008,'Meat Deluxe',1,299,'Chomp on pork and Italian sausages, pepperoni, ham, bacon and bacon bits.','ready')");
+mysql_query("INSERT INTO food VALUES(1009,'Tropical Loaded',1,279,'Full of ham, crab sticks, pineapples and baked.','ready')");
+mysql_query("INSERT INTO food VALUES(1010,'Bacon Super Delight',1,279,'Italian sausage, bacon, ham, sweet pepper and cherry tomatoes.','ready')");
+mysql_query("INSERT INTO food VALUES(1011,'Double Pepperoni',1,279,'Comes with nothing else but pepperoni? Two times the normal size.','ready')");
+mysql_query("INSERT INTO food VALUES(1012,'Aloha',1,279,'pepperoni pork sausage and juicy pineapple with Thousand Island sauce.','ready')");
+mysql_query("INSERT INTO food VALUES(1013,'Double Cheese',1,279,'Create pizza with your choices of toppings while we double up the cheese.','ready')");
+mysql_query("INSERT INTO food VALUES(1014,'Tom Yum Kung',1,349,'An authentic east-meets-west pizza indeed! Combining spicy Tom Yum's chilli.','ready')");
+mysql_query("INSERT INTO food VALUES(1015,'Veggie',1,279,'Make no claims that Veggie Pizza or its ingredients are certified as vegetarian .','ready')");
+mysql_query("INSERT INTO food VALUES(1016,'Canadian Bacon',1,279,'A Canadian style pizza that comes with lots of ham, bacon, bacon bits and corn.','ready')");
+mysql_query("INSERT INTO food VALUES(1017,'Ham & Mushroom',1,279,'A simple pleasure in every bite.','ready')");
+mysql_query("INSERT INTO food VALUES(1018,'Chicken Caldo',1,279,'If you are mad for chicken, don’t miss this one !!','ready')");
+mysql_query("INSERT INTO food VALUES(1019,'Deluxe',1,299,'Pork sausage, ham, pepperoni, onion, capsicum and mushroom.','ready')");
+
+
+mysql_query("INSERT INTO food VALUES(2000,'Baked chicken wings',2,129,'','ready')");
+mysql_query("INSERT INTO food VALUES(2001,'Soft dough stuffed with soft cheese',2,59,'','ready')");
+mysql_query("INSERT INTO food VALUES(2002,'Delicious hot spicy barbecue',2,129,'','ready')");
+mysql_query("INSERT INTO food VALUES(2003,'Fried Chicken Mild 3 pcs',2,199,'','ready')");
+mysql_query("INSERT INTO food VALUES(2004,'Fried Chicken Mild 6 pcs',2,389,'','ready')");
+mysql_query("INSERT INTO food VALUES(2005.'Fried Chicken Mild 12 pcs',2,699,'','ready')");
+
+
+mysql_query("INSERT INTO food VALUES(3000,'Salad Cream',3,99,'','ready')");
+mysql_query("INSERT INTO food VALUES(3001,'Thousand Island',3,99,'','ready')");
+mysql_query("INSERT INTO food VALUES(3002,'Shrimp Salad',3,159,'','ready')");
+mysql_query("INSERT INTO food VALUES(3003,'Caesar's Salad',3,139,'','ready')");
+mysql_query("INSERT INTO food VALUES(3004,'Tuna Salad',3,139,'','ready')");
+
+
+mysql_query("INSERT INTO food VALUES(4000,'Pepsi 550 ml',4,25,'','ready')");
+mysql_query("INSERT INTO food VALUES(4001,'Pepsi 1 Ltr,4,35,'','ready')");
+
+
+mysql_query("INSERT INTO food VALUES(5000,'Mocha Almond Fudge Ice Cream',5,199,'','ready')");
+mysql_query("INSERT INTO food VALUES(5001,'Chocolate Chip Ice Cream',5,199,'','ready')");
+mysql_query("INSERT INTO food VALUES(5002,'Sticky Chewy Chocolate Ice Cream',5,199,'','ready')");
+mysql_query("INSERT INTO food VALUES(5003,'Rum Raisin Ice Cream',5,199,'','ready')");
+mysql_query("INSERT INTO food VALUES(5004,'Very Strawberry Ice Cream',5,199,'','ready')");
+mysql_query("INSERT INTO food VALUES(5005,'Vanilla Ice Cream',5,199,'','ready')");
+
+
+mysql_query("INSERT INTO food VALUES(6000,'Square Pizza',6,199,'Enjoy the new Square Pizza starting from only 199 Baht from The Pizza Company. The pizza comes with 9 pieces with various toppings of your choice.','ready')");
+mysql_query("INSERT INTO food VALUES(6001,'Online Set',6,279,'Square Pizza* + Jumbo Hotdog Roll + Pepsi 550 ml. *Only applicable to 11 Classic toppings','ready')");
+mysql_query("INSERT INTO food VALUES(6002,'Jumbo Hotdog Roll',6,69,'Enjoy delicious hot dog with cheese filling wrapped in crescent rolls, topped off with garlic and black pepper for superb taste. for 2 pieces!','ready')");
+mysql_query("INSERT INTO food VALUES(6003,'Jumbo Pizza Puff',6,99,'Introducing Jumbo Pizza Puff, a folded delicious crust filled with mozzarella cheese and your favorite toppings: Hawaiian, Chicken Trio, Super Deluxe and Seafood Cocktail from only 99 Baht*. Try now! * Jumbo Pizza Puff Hawaiian 99 Baht, Chicken Trio and Super Deluxe 119 Baht.','ready')");
+mysql_query("INSERT INTO food VALUES(6004,'DQ Vanilla Ice Cream',6,59,'Delicious with the soft serve smooth ice-cream From Dairy Queen.','ready')");
+mysql_query("INSERT INTO food VALUES(6005,'Chicken Nuggets',6,79,'Introducing Chicken Nuggets from The Pizza Company!! Our tender and juicy chicken nuggets are cooked and marinated in delicious spices and fried to perfection. Enjoy with your choice of ketchup or chicken dipping sauces','ready')");
+mysql_query("INSERT INTO food VALUES(6006,'Salad Lover',6,99,'For salad lovers, order a Salad at price starting ','ready')");
+mysql_query("INSERT INTO food VALUES(6007,'Sud Kum Set',6,299,'Medium Pan or Thin Pizza + 4 pcs of Crispy Crunchy Wings or BBQ Chicken Wings + Garlic Bread applicable to 11 Classic toppings for Gourmet Seafood toppings add upsize to Large Pan or Thin pizza.','ready')");
+mysql_query("INSERT INTO food VALUES(6008,'Kern Kum Set',6,399,'Medium Pan or Thin Pizza + Spaghett  + 4 pcs of Crispy Crunchy Wings or BBQ Chicken Wings + Garlic Bread','ready')");
+mysql_query("INSERT INTO food VALUES(6009,'Yok Gang Set',6,499,'Medium Pan or Thin Pizza + 3 pcs of Fried Chicken + Spaghetti + Garlic Bread.','ready')");
+
+
